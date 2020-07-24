@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos done this weeks
+As stated above, the purpose of the this is to provide simple examples for Git trainning demos
+
 
 ## Deployment
 These are the weeks deployments
