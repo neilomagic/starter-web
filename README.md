@@ -8,4 +8,4 @@ As stated above, the purpose of the this is to provide simple examples for Git t
 
 
 ## Deployment
-These are the weeks deployments
+These are the week's deployments. And they will always be listed here.
