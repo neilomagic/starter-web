@@ -16,3 +16,6 @@ Note we take only those who have registered through the website.
 
 ## Author
 We mention the author of the videos.
+
+#### Copyright
+2020 Git Training
