@@ -17,5 +17,8 @@ Note we take only those who have registered through the website.
 ## Author
 We mention the author of the videos.
 
+## How to contribute
+Please fork this repo
+
 #### Copyright
 2020 Git Training
