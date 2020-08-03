@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example.
-More changes from my feature branch too
+More changes from my feature branch too. We are doing an emergence stash
 
 ## Purpose
 
