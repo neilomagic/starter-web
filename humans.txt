@@ -9,7 +9,8 @@
 # THANKS
 
     <name>
-	Thanks to all my students
+	Thanks to all my students!
+	Please leave a review after the course
 
 # TECHNOLOGY COLOPHON
 
