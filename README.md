@@ -23,4 +23,4 @@ We mention the author of the videos.
 Please fork this repo
 
 #### Copyright
-2020 Git Training
+2020 Git Training. All rights reserved
